@@ -1,4 +1,3 @@
-# persona-rag-system
 # Adaptive Persona RAG System
 
 ## Overview
@@ -135,8 +134,7 @@ python app.py
 
 Hosted Gradio Link:
 
-(https://2c1a69e9b996a78ffb.gradio.live/)
+[https://2c1a69e9b996a78ffb.gradio.live/]
 
 Loom Video:
-
-https://www.loom.com/share/31e60e7fbe854da09256a94369aab936
+[https://www.loom.com/share/31e60e7fbe854da09256a94369aab936]
